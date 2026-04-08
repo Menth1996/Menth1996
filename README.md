@@ -1,42 +1,57 @@
-# Hi, I'm Miles Anthony 👋
+# Hi there, I'm Miles Anthony 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Menth1996/Menth1996/main/assets/banner.png" alt="Profile Banner">
-</p>
+### Senior AI/ML Infrastructure Engineer | Generative AI | Distributed Systems
 
-### Senior Staff Engineer | Generative AI & LLM Infrastructure | Seattle, WA
+I am a dedicated Senior AI/ML Infrastructure Engineer focused on architecting and implementing robust infrastructure for Generative AI and Large Language Models. My passion lies in building scalable, efficient, and high-performance systems that empower the next generation of AI applications, from research to production.
 
-I am a dedicated Senior Staff Engineer focused on architecting and implementing robust infrastructure for Generative AI and Large Language Models. My passion lies in building scalable, efficient, and high-performance systems that empower the next generation of AI applications, from research to production.
+---
 
-### 🚀 Technical Expertise
+## 🛠️ Categorized Tech Stack
 
-*   **Core Languages**: Python, C++, Go, Rust, Java
-*   **AI/ML Frameworks**: PyTorch, TensorFlow, JAX, HuggingFace Transformers, ONNX
-*   **LLM Infrastructure**: Distributed Training (DeepSpeed, FSDP), Quantization, Model Serving (Triton Inference Server, FastAPI)
-*   **Cloud & Orchestration**: Kubernetes, AWS (EKS, SageMaker), GCP (GKE, Vertex AI), Azure ML
-*   **Data Engineering**: Apache Spark, Kafka, Snowflake, PostgreSQL, MongoDB
-*   **DevOps & MLOps**: GitHub Actions, GitLab CI, Docker, MLflow, Kubeflow, Prometheus, Grafana
+### **Core Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
-### 🛠️ Featured Projects
+### **AI/ML Frameworks**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-000000?style=for-the-badge&logo=jax&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
-*   **[mlops-pipeline-toolkit](https://github.com/Menth1996/mlops-pipeline-toolkit)**: End-to-End Machine Learning Lifecycle Management Toolkit (Python)
-*   **[llm-inference-engine](https://github.com/Menth1996/llm-inference-engine)**: A high-performance Go-based inference engine for serving quantized LLMs (Go)
-*   **[ai-accelerator-sdk](https://github.com/Menth1996/ai-accelerator-sdk)**: A C++ library for optimizing AI model performance on specialized hardware (C++)
-*   **[distributed-training-scheduler](https://github.com/Menth1996/distributed-training-scheduler)**: A robust scheduler for massive GPU clusters (Rust)
-*   **[neural-data-stream](https://github.com/Menth1996/neural-data-stream)**: High-throughput data ingestion for real-time model training (Java)
+### **LLM Infrastructure & MLOps**
+![DeepSpeed](https://img.shields.io/badge/DeepSpeed-000000?style=for-the-badge)
+![Triton](https://img.shields.io/badge/Triton_Inference_Server-29B6F6?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Menth1996&show_icons=true&theme=radical" alt="Miles Anthony GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Menth1996&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menth1996&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 📊 GitHub Stats
 
-### 📫 Connect with Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Menth1996&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Miles's GitHub Stats" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Menth1996&theme=radical&hide_border=true" alt="Miles's GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menth1996&layout=compact&theme=radical&hide_border=true" alt="Miles's Top Languages" />
+</div>
 
-*   **LinkedIn**: [linkedin.com/in/milesanthonyai](https://linkedin.com/in/milesanthonyai)
-*   **Twitter**: [@MilesAnthonyAI](https://twitter.com/MilesAnthonyAI)
-*   **Portfolio**: [milesanthony.dev](https://milesanthony.dev)
+---
+
+## 📫 Connect with Me
+
+- **LinkedIn**: [linkedin.com/in/milesanthonyai](https://linkedin.com/in/milesanthonyai)
+- **Twitter**: [@MilesAnthonyAI](https://twitter.com/MilesAnthonyAI)
+- **Portfolio**: [milesanthony.dev](https://milesanthony.dev)
 
 _"Building the foundational layers for intelligent futures."_
